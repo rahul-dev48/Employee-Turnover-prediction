@@ -1,0 +1,15 @@
+# Models
+*.pkl
+*.joblib
+
+# Datasets
+*.csv
+*.parquet
+
+# Python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
