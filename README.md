@@ -117,7 +117,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 👤 Author By
 
 **Rahul Kumar**
 GitHub: [@rahul-dev48](https://github.com/rahul-dev48)
