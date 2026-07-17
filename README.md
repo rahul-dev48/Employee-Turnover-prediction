@@ -14,7 +14,7 @@ This project uses a **Random Forest Classifier** trained on employee performance
 - 📋 Employee summary and personalized recommendations
 - 📥 Downloadable prediction report (CSV)
 - 🖥️ Clean and interactive Streamlit UI
-- ✅ Model accuracy: **98.7%**
+- ✅ Model accuracy:-**98.7%**
 
 ## 🖼️ Screenshot
 
